@@ -1,0 +1,23 @@
+[33mcommit 2bf9d1931d74588052cd9877f563ce07d974aedb[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m)[m
+Author: Lukas <puras15@gmail.com>
+Date:   Thu May 11 13:47:19 2023 +0300
+
+    delete/completed functions been created on habitTracker component
+
+[33mcommit b5863a4b8a8ae189f4f193ea9fa1a8b5b428c5c0[m
+Author: Lukas <puras15@gmail.com>
+Date:   Wed May 10 12:26:48 2023 +0300
+
+    add habit form added
+
+[33mcommit adb3c23def57dceef0b5edad3ef14ee3918035c4[m[33m ([m[1;31morigin/master[m[33m)[m
+Author: Lukas <puras15@gmail.com>
+Date:   Tue May 9 15:02:37 2023 +0300
+
+    mainPage component added
+
+[33mcommit 91e867480e5e9526b236b611b270702f4689fe54[m
+Author: Lukas <puras15@gmail.com>
+Date:   Tue May 9 14:00:53 2023 +0300
+
+    creating static main page
